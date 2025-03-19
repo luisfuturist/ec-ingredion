@@ -12,7 +12,7 @@ Você pode visualizar o relatório completo clicando no link abaixo:
 
 ## 📂 Estrutura do Repositório
 
-```
+```txt
 /
 │── Challenge Ingredion: Sprint 1 - Predição da Produtividade Agrícola com Visão Computacional.pdf # Relatório final em formato PDF
 │── README.md # Este arquivo
