@@ -8,13 +8,13 @@ Este repositório contém o relatório da **Sprint 1** do Desafio Ingredion.
 
 Você pode visualizar o relatório completo clicando no link abaixo:
 
-[📥 Relatório da Sprint 1 (PDF)](./Challenge Ingredion: Sprint 1 - Predição da Produtividade Agrícola com Visão Computacional.pdf)
+[📥 Relatório da Sprint 1 (PDF)](./Sprint_1_Report.pdf)
 
 ## 📂 Estrutura do Repositório
 
 ```txt
 /
-│── Challenge Ingredion: Sprint 1 - Predição da Produtividade Agrícola com Visão Computacional.pdf # Relatório final em formato PDF
+│── Sprint_1_Report.pdf # Relatório final em formato PDF
 │── README.md # Este arquivo
 ```
 
